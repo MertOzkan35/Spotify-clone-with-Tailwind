@@ -1,0 +1,9 @@
+.scrollbar {
+  scrollbar-color: red yellow;
+  border-radius: 10px;
+  background-color: #070606;
+}
+
+.scrollable-element {
+  scrollbar-color: red yellow;
+}
